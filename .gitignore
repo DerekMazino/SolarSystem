@@ -1,0 +1,50 @@
+# Archivos y carpetas generadas automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Visual Studio / VSCode
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Archivos de cache
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.bak
+
+# Git LFS
+*.psd
+*.tga
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.fbx
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.ogg
+*.prefab
+*.asset
